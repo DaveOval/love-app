@@ -30,7 +30,7 @@ function App() {
     setAnswers(e.target.value)
     if(e.target.value === "yes"){
       //alert("Te amo")
-      window.location.href = "../respues.html";
+      window.location.href = "../public/respues.html";
     }
   }
 
